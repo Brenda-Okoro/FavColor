@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FavColor</string>
+    <string name="favorite_colour">What is your favorite colour?</string>
+    <string name="done">Done</string>
+</resources>
